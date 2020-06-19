@@ -8,3 +8,5 @@ Jack Sparrow was a legendary pirate of the Seven Seas, and the irreverent tricks
 * pirate lord of the caribbean sea
 * was eaten by the kraken and died
 * escaped davy jones locker and was alive
+
+> This is the day you will always remember as the day you almost caught Captain Jack Sparrow.
