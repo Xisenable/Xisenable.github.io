@@ -10,3 +10,5 @@ Jack Sparrow was a legendary pirate of the Seven Seas, and the irreverent tricks
 * escaped davy jones locker and was alive
 
 > This is the day you will always remember as the day you almost caught Captain Jack Sparrow.
+
+<img src="https://vignette.wikia.nocookie.net/fdk/images/f/f2/IMG_Jack.png/revision/latest?cb=20180311163141&path-prefix=de"/>
